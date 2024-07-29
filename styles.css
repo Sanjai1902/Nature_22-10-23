@@ -149,6 +149,7 @@ nav {
   background-image: url("assets/header.jpg");
   background-position: center center;
   background-size: cover;
+  background-repeat: no-repeat;
   mask: url("assets/header-bg.png");
   size: cover;
   position: center center;
